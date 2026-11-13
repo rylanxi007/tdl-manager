@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">
-  <a href="./README.md">English</a><span> · </span>
+  <a href="./README_EN.md">English</a><span> · </span>
   <a href="https://github.com/tangyoha/telegram_media_downloader/discussions/categories/ideas">新功能请求</a>
   <span> · </span>
   <a href="https://github.com/tangyoha/telegram_media_downloader/issues">报告bug</a>
